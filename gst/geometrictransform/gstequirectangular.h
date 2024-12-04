@@ -77,7 +77,7 @@ float *buf_y;
 FILE *fptr_x;
 FILE *fptr_y;
 int mat_width;
-int mat_height;      
+int mat_height;    
 };
 
 struct _GstEquirectangularClass {
